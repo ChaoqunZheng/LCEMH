@@ -1,6 +1,6 @@
 # LCEMH
 
-Code for LCEMH: Label Correlation Enhanced Multi-modal Hashing for Ecient Multi-modal Retrieval
+Code for LCEMH: Label Correlation Enhanced Multi-modal Hashing for Effcient Multi-modal Retrieval
 
 Prerequisities
 
